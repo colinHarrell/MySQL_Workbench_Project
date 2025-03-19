@@ -1,0 +1,4 @@
+*.mwb linguist-detectable=true
+*.sql linguist-detectable=true
+*.txt linguist-documentation
+*.csv linguist-vendored
